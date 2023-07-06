@@ -1,0 +1,989 @@
+,comment,label
+2,what impact c public private control flags,CODE
+3,requires validation,CODE
+4,todo might need put params,CODE
+15,explicitly set branches tracked origin remote needed using shallow clone travisci,BUILD
+18,dois supported,DEFECT
+20,update anchors dot anchor breaks scrollspy,DEFECT
+27,real plot info length must increase,CODE
+28,would better base top data structure provides files root directory use printing,CODE
+30,pkgdown probably loaded devtools,BUILD
+35,email addresses nt get linked,CODE
+45,todo,CODE
+54,todo consider removingchanging,CODE
+60,fix lost factor information may needed,ALGORITHM
+64,probably redundant check,CODE
+68,future currently implemented,REQUIREMENTS
+72,add info series function parameters add note nanan folds print number folds,DOCUMENTATION
+80,drop attributes nt want deal todo,CODE
+82,how print hrgs,CODE
+89,todo speed,ARCHITECTURE
+92,todo speed,ARCHITECTURE
+96,new style parameters ca nt yet,CODE
+104,todo getoption maxprint,CODE
+111,new style parameters ca nt yet,CODE
+119,todo tests typically hard cases,TEST
+120,todo subsetting,DESIGN
+122,not meaningful tests they good testing functions run much,TEST
+123,todo,TEST
+126,todo check largest,TEST
+130,todo find way detect connect timeout specifically https githubcomjeroencurlissues154 https echaxxseusingcurlusingcurltimeouts failing connect within given time cause curl exit timeout exit code however note timeouts lead exit code https echaxxseusingcurlusingcurlreturns operation timeout the specified timeout period reached according conditions curl offers several timeouts exit code tells one timeout limits reached https githubcomcurlcurlblob272282a05416e42d2cc4a847a31fd457bc6cc827libstrerrorc l143l144 timeout reached actual message could potentially match,ARCHITECTURE
+131,to do jennybc element named filename preferred i m sure parse yet targetting filename https toolsietforghtmlrfc6266,CODE
+132,i know i could use regex lookahead easier maintain,CODE
+138,todo forward info credentials package available https githubcomrlibcredentialsissues6,DESIGN
+172,annoyingly slow automated tests mention bit fragile,ARCHITECTURE
+185,create new x matrix need modify noise added variable blocks instead fixed blocks,DEFECT
+186,todo make axis lines match date positions buildinfo ggplotbuild p geombar histbarperc buildinfo data ncount,CODE
+187,function filter nt work,DEFECT
+193,fix args,CODE
+194,copied directly reshape import difficulties rescalerdefault,BUILD
+199,turn progress quick plot todo turn test back uses message properly testthat expectmessage print pm2 progress true,TEST
+200,problem here would vertexnames equal testlabels expectequal get data p layers label testlabels,DEFECT
+202,note dropped colors stwarp fixed stars,CODE
+205,todo hist fillhist isportrait,CODE
+209,todo update smoothmap sf,CODE
+214,for windows convert version work box install legacy files eg convertexe nt checked,DEFECT
+216,to do add layerid layerid tmap401 number polygons,DEFECT
+219,checking make sure qc labels unique qcinx toupper substr smplnms qc old code delete,CODE
+222,temporary var leftover old times…,CODE
+231,tom s code sticking tom s variable name,CODE
+232,yuliya sure needed needed group normalizaiton res0 res0 h res0 yuliya sept removed line do think needs done center peptide around zero subtract mean across samples note changing matrix centerig pass svd,CODE
+241,todo also override data used recent trace,CODE
+242,todo generate matrix users z vector xy null throw error xyz vectors length x length length z convert z matrix,CODE
+249,got error incorrect number dimensions added dropfalse avoid vector conversion,DEFECT
+251,need update cls labels,CODE
+254,redundant msetobj dataset copies,CODE
+259,todo combine results hitsedge hitsnode without applying lapply hitsquery,CODE
+260,todo change species,REQUIREMENTS
+264,tested walktrap work method need compute weights edges node inx,TEST
+266,other parameters none,CODE
+271,estimating clustering based hard coded vexp threshold,CODE
+274,todo change samplena samplenumber,CODE
+276,have adjust,CODE
+278,fix issue,DEFECT
+279,bug workaround,DEFECT
+280,expand one side consistent old code,CODE
+281,return null ve got less samples required total number peaks larger certain threshold note original implementation completely correct nsamp nsamp extrapeaks might correct,CODE
+287,hydrogen part hard coded,CODE
+295,names may long,CODE
+298,names may long,CODE
+302,coefficient step aalen s plots if keep one row coefficent per death aalen s variance coef coef treating coef col vector if kept one row per death ndeath nvar nvar variance matrices would need kept so keep row per event things like plot end accumlating there cheat dfbeta kept unique deaths p p matrices special case covariate,DESIGN
+306,case integer,CODE
+308,a nuisance left continuous km,CODE
+314,fix later,DEFECT
+318,this check could sophisticated though i nt see we want make sure alldate line makes sense data types user passed,CODE
+320,we ca nt use asinteger oldstrat index oldstrat factor variable unrepresented levels asinteger could give instance,CODE
+323,coxphms object work around issue printcoefmat print group group,CODE
+329,case harder since involves points case user nt,ALGORITHM
+335,automatically generated noweb directory replaced concordancer this code frozen deprecated,CODE
+339,if model interactions print long warning message people may hate i nt see another way stamp bad curves without backwardsincompatability i probably complain factors never strata cluster term,USABILITY
+342,a design decision long ago not include time returned survival curve a bad choice retrospect in code pstate less p0 even utime stime the curve immediate drop,ALGORITHM
+361,needed,CODE
+364,graph useful debugging,CODE
+365,older style call,CODE
+369,graph useful debugging,CODE
+370,data courtesy bercedis peterson duke university v4 survreg fails due groups subject coef easily gets hand in fact data set toughest test minimizer a shrinkage model coefficient therefore interesting,TEST
+375,todo get names data object save separately provide function load,CODE
+376,try creating even s old temp dir this nt ideal would like rather say s temporary directory use current one,ARCHITECTURE
+378,todo objects changed,CODE
+380,todo test documented everything successfully files parsed successfully,DOCUMENTATION
+386,commented firstlastgames week21 setnames rep asposixct asnumeric scheduledata week21 match1 origin c first last,TEST
+392,todo make sure condcols unique keycol unique,CODE
+396,todo check filter state,CODE
+398,todo warn width height small,CODE
+400,todo add state validation,TEST
+419,todo add automated recognition type,REQUIREMENTS
+429,ascharacterrd appears missing href twoargs code hacks body function add,CODE
+433,suppressing r cmd note,BUILD
+435,suppressing note r cmd check,BUILD
+455,also ordered expectation,CODE
+460,fails,TEST
+465,debug,CODE
+477,match i think,CODE
+478,done c,ARCHITECTURE
+484,cell set na na layer that ideal easier quicker,CODE
+491,removed released sp crs,CODE
+493,tested much,TEST
+496,old idrisi format,CODE
+497,currently single layer,REQUIREMENTS
+499,could done much efficiently,ARCHITECTURE
+501,reverted slow,ARCHITECTURE
+502,compare projections x,CODE
+504,hack make sure arcgis assume values integers first values decimal point,CODE
+507,backward compatibility,CODE
+516,do not export,DESIGN
+523,nocov nocov,TEST
+524,nocov nocov,TEST
+526,nocov nocov,TEST
+539,nocov,TEST
+540,nocov,TEST
+551,nocov,TEST
+553,nocov,TEST
+560,encode tilde unless first character fix me needed hb,CODE
+564,nothing todo,CODE
+565,this makes r rna is want hb,REQUIREMENTS
+578,this workaround make sure connection opened inside trycatch statement closed,CODE
+584,can replace base pathexpand hb does tilde expansion to avoid tmp tmp,CODE
+588,not needed anymore,CODE
+597,not needed anymore,CODE
+598,not needed anymore,CODE
+601,not needed anymore,CODE
+605,workaround fact getanywhere accepting string,CODE
+606,workaround base unlink support paths leading tilde cf https statethzchpipermailrhelp2010october254998html hb,CODE
+615,nothing todo,CODE
+621,evalute code expression workaround the following evaluate environment envir due captureoutput unless evaluate envir this sanity check hb,ARCHITECTURE
+623,sanity checks for assume nonoverlapping intervals hb,ALGORITHM
+624,not needed anymore,CODE
+627,to please r cmd check,BUILD
+628,not needed anymore,CODE
+638,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+641,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+648,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+651,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+660,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+665,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+673,make container report description empty container hardcoded requirement api call report suite metric specified save,CODE
+678,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+679,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+685,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+690,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+699,hack locale every method calls apirequest hopefully works set encoding utf8 well someone wanted base64 luck,CODE
+702,create sparse matrix appears work provides convenient wrapper around sparsematrix error appears related deprecated functions,DEFECT
+723,not needed anymore,CODE
+737,duplicate logic packrat getdefaultlibpaths,BUILD
+740,see version mismatches todo expand version specifications,VERSIONING
+741,todo better algorithm keep dependency free,DESIGN
+744,todo check string correctly encoded anything,CODE
+745,todo is possible support throwmissing,CODE
+746,todo hash could proper length char x might give better performance probably worth checking point also text standard though widely supported see note table name interpolation,ARCHITECTURE
+748,todo dialect detection thing might good list,DOCUMENTATION
+750,delete key because requirement return truefalse successfulunsuccessful key deletion includes existshash step first otherwise need ugly probably nonportable queries return booleans delete things,ARCHITECTURE
+751,todo nt use in single cases use requires treatment final clause repeats whole thing,CODE
+752,note this uses inheritence i actually think might right call this could implemented hasa relationship fundamentally want interact isa unlike previous implementation external storr objects one suffer cache miss nice todo need pending support parallel invocations not possible backends todo support passing actual storr case d take driver element possibly clone,ARCHITECTURE
+773,cheating using rastersprgeos,BUILD
+778,work around onload problem isnull terraenvironment options init,CODE
+800,sum let s expand todo detect automatically need evaluate anything argument onwards eg sumexpr x n n needs bound,REQUIREMENTS
+801,todo write generic method,CODE
+803,error indices used sumexpr,DEFECT
+805,define variables fix visible binding check bit hack,CODE
+811,define variables fix visible binding check bit hack,CODE
+812,hacky way dealing repeated text entries,CODE
+813,these deprecated functions likely removed future versions documentation functions incomplete,DOCUMENTATION
+818,ensure riverplot function runs todo perhaps check graphics output vdiffr make real unit test,TEST
+821,to do add validation w pbshostfile toward counts pbsnp pbsnumnodes pbsnumppn,ARCHITECTURE
+824,not needed anymore,CODE
+826,workaround noninteger timeouts least seconds may result infinite waiting pr17203 fixed r devel r73470 r https githubcomhenrikbengtssonwishlistforrissues35,CODE
+828,ad hocfixme here future node yet assigned look first worker assume others hb,CODE
+833,workaround skip c makes assumption withcallinghandlers local in case changes provide internal options adjust hb,CODE
+841,ad hoc singularity exec rscript requires input if terminated try read nonexisting standard input hb,CODE
+844,note we use mcollect job wait false timeout return null s timeout ambigous value future expression may return null workaround adopted parallel mccollect fixme can use result instead hb,CODE
+850,not needed anymore,CODE
+859,trim drop empty results case,CODE
+864,suppress warning message in dotrycatch return expr name parentenv handler restarting interrupted promise evaluation,CODE
+868,note do nt initiate startup might hang give error,ARCHITECTURE
+870,workaround fork ed processing gives really odd results macos running github actions hb,BUILD
+876,bug fix in globals global x lhs assignment would missed,DEFECT
+884,fixme should value,CODE
+886,workaround fsample triggers rfutureglobalsonreference warning not sure hb,DEFECT
+887,does nt work covr depends stats loaded,TEST
+889,sampvox null goes away,CODE
+891,generic dumb reports ctype nt implement logic guessing coercion etc,CODE
+894,nocov start,TEST
+897,todo revisit i pkgscopes https githubcomrlibgargleissues103,CODE
+901,todo factor duration,CODE
+906,hacky implementation typed pluck na default,CODE
+911,todo nt show people providing sheet name via celllimits i proceed sheet always specified elsewhere,CODE
+923,hardcoded maximum two days defining x windows per defined hear window length constant,CODE
+930,no idea what rest noise is for axivity test needed,TEST
+931,no idea what rest noise is for movisens test needed,TEST
+937,load datafile turned datafile already loaded earlier script,CODE
+938,ld analysis stops trick stop stop reading enough data block,CODE
+950,would nice load object i entire datafile,CODE
+956,fix missing nights part data,DEFECT
+957,could add trycatch case which fails,CODE
+959,first block doenst read probably corrupt,DEFECT
+965,run function milestone data gpart5,CODE
+966,run function milestone data gpart5,CODE
+968,hard coded assumption dynamic range 8g,CODE
+978,irlba warns using large percentage total singular value nt use dataset small compared ncol,DEFECT
+983,ca nt use transform model unloaded,TEST
+984,the checking code looks objects package namespace defining dll removes following note registration problem evaluating â€˜dll fooâ€™ check gives error â€˜object dll foundâ€™ c dll foo 0l see https githubcomwchrsourceblobd4e8fc9832f35f3c63f2201e7a35fbded5b5e14csrclibrarytoolsrqcr l1950l1980 setting class needed avoid note returning wrong class the local object found first actual call current behavior unchanged,CODE
+991,this workaround writedcf bug and also windows line ending characters,CODE
+996,results numerically equal dist introduces rownames check numerical equality attributes,CODE
+1004,nocov end,TEST
+1006,nolint end nocov end,TEST
+1024,slower whichmin whichmax works also correctly values inf x breaks ties randomly,ARCHITECTURE
+1027,case,CODE
+1038,todo error ok empty,CODE
+1056,todo add suppresswarnings rngversion tests examples expectequal dim fortified c,TEST
+1060,fails cran sparc components inversed,BUILD
+1064,exclude case listdirectory nt return,CODE
+1065,not needed anymore,CODE
+1066,todo not showing anything,DEFECT
+1071,for assume x aggregated somehow,REQUIREMENTS
+1073,nocov start,TEST
+1079,nocov end,TEST
+1081,nocov start,TEST
+1082,nocov end,TEST
+1084,nocov end,TEST
+1102,nocov,TEST
+1109,nocov,TEST
+1113,nocov,TEST
+1125,nocov nocov nocov nocov,TEST
+1127,nocov nocov,TEST
+1130,workaround githubcomedwindjwhiskerissues20,CODE
+1141,trivial function reverse order hclust tree base r,CODE
+1144,the following line evaled environment formula made update fail rethink line capscale fails mysteriously point,DEFECT
+1147,we handle missing values yet,REQUIREMENTS
+1148,perm matrix always if plain matrix set minimal attributes printing this dirty kluge handled cleanly,CODE
+1152,want models based variance correlations break methods depending unscaled xbar scaling internally scale false,DEFECT
+1164,asmatrix changes score vector 1col matrix hack may fail sometimes probably less often without hack,DEFECT
+1169,fails head goodness mcap display sites currently disabled head goodness mdb display sites implemented partial dbrda head goodness mancap display sites currently disabled head goodness mandb display sites implemneted partial dbrda,TEST
+1174,envfit plotenvfit latter failed naaction resulted observation given factor level removed plotenvfit would fail error long subscript fixed case data presented envfit also extraneous levels,DEFECT
+1178,vectorise future,CODE
+1179,vectorise future,CODE
+1181,nocov end,TEST
+1192,again dummy,CODE
+1207,prediction sometimes fails,TEST
+1217,much missing values sum w length w ypred ypred na adapt wts set iter i1 nptperyear wfact,CODE
+1220,bug need remove incomplete year,DEFECT
+1228,nocov,TEST
+1241,inspired https stackoverflowcomquestions43281803embeddeddataframeinrwhatisitwhatisitcalledwhydoesitbehaveth this could probably better it nt work tibble x,DEFECT
+1249,it removes environment could large needed prediction used modelmatrix data environment object never need i guess could used look global variables formula nt want guard it used modelframe evaluate predvars also evaluated presence data always suffice,ARCHITECTURE
+1253,todo incorporate boxcox transformation ie box qt lambda lambda quantile the case lambda may trivial case largely ignored flowclust,CODE
+1259,flowcore flowviz support negated filter use refgateboolgate csv template workaround popname stop negated 2d gate supported yet pass gate,CODE
+1262,todo determine range xcoord peaks tiny dataderived threshold exclude features range considering cut motivated cytof data long tail extreme values eliminated higher adjust values nt eliminated gaterange,REQUIREMENTS
+1265,create dummy rectanglegate todo move channels deprecate x channel dots list channels dots channels,CODE
+1269,todo fix mccore3 error,CODE
+1285,todo use adist return close names,CODE
+1286,workaround https githubcomjuliasilgetidytextissues64,CODE
+1288,todo handle case ca nt open browser,CODE
+1292,todo support unix os,CODE
+1293,todo rebase promisified fsreadfile async,CODE
+1295,hack implement javascript s array sth instead use,CODE
+1300,todo debug,DEFECT
+1304,todo the logrseg currently updated,CODE
+1305,todo update logrseg well,CODE
+1308,decode a c g t encoding used variantdata input files todo place utils script is nt also performed generateimputeinputfromallelefrequenciesr,DESIGN
+1319,check,CODE
+1324,hack,CODE
+1332,still sure best thing evaluate elements call make sure still function new environments call lapply call evalparent call lapply call eval envirparentframe enclosparentframe fails embedded funny environment eg called lapply need first place fixme change update profile refit model properly rather evaluating call generally find lessfragile way reverting original form,DEFECT
+1349,fixme abstract generalpurpose code ie replace fitted objective function parameter vector optimizer method control settings min val standard errorhessian allow starting values set mle always use mle prevfit default extrap linear extrapolation previous two fits,CODE
+1355,q reset par mfrow par mfg anyway,CODE
+1356,fixme this need monotonic cat obj parvals obj z n fixme reconcile confint,CODE
+1367,fixme compare two setmethod update mle2 function object evaluate true call object call extras matchcall expanddots false length extras existing isna match names extras names call names extras existing call extras existing call c aslist call extras existing call ascall call evaluate eval call parentframe else call,CODE
+1370,not working,DEFECT
+1382,throws warning cran system bdr report testsnoldbbmlercheckâ€™ using r under development unstable r77606 using platform x8664pclinuxgnu 64bit suppresswarnings nt seem suppress warning instead use test https wwwrbloggerscomanoldplatformonrhubpackagebuilder,TEST
+1383,slow,ARCHITECTURE
+1386,target logfile overwrites last bc nt expect debug often nt want bazillion extra files,DEFECT
+1393,need copy files needed testing copy everything need eventually tests,TEST
+1397,create arguments optim we need docall pass default args maybe s better way using rlang list2,CODE
+1398,give games home team wins higher weight compare hfa todo come better granular tests feature,TEST
+1400,dummy trick r cmd check,BUILD
+1403,working yet,DEFECT
+1406,nocov start,TEST
+1410,nocov,TEST
+1435,todo allow subsets matrices specified filling default matrices,REQUIREMENTS
+1444,todo somewhere add check least one lx ly exist,CODE
+1445,works initialization todo add processing addingremoving variables variables switching exo endo,DEFECT
+1450,yet tested,TEST
+1451,probably wo nt work,DEFECT
+1456,todo informative error message,USABILITY
+1459,years convert actual error todo,REQUIREMENTS
+1465,partial solve possible covariances latents fixed zero variances latents free analytical solution still possible cases one latent all covariances fixed zero conditional more one latent there free covariances latents,REQUIREMENTS
+1468,broken case covariance data means analytical solution block this case covariance data means data present solvetype solve analytical soln,DEFECT
+1475,normal case probably time,CODE
+1476,objective sum todo combine algebra objectives ppmltransformed models objectives paste submodelnames objective sep,ALGORITHM
+1480,using r s covariance matrix function work sigmalatent cov asmatrix model data observed length latentvars,DEFECT
+1497,nocov end,TEST
+1499,wrap mxcomputetrycatch,CODE
+1504,incorporate row frequency weight information todo,REQUIREMENTS
+1512,todo need input checking for instance initialgradientiterations positive integer right,DEFECT
+1521,nocov,TEST
+1524,future work omxbrownie objects nt work yet,DEFECT
+1526,nocov start,TEST
+1527,nocov end,TEST
+1532,fixme average anymore,DEFECT
+1553,repeat last column match split sentence ie nt want edge return node leaves,CODE
+1558,fixme no good identifier r particularly none specific version,DEFECT
+1563,ca nt impute randomness right,CODE
+1565,checktype warning work s4 methods,DESIGN
+1577,treat missing argument compatibility tab na asis zero mean mean,CODE
+1582,retain given thres dates tokeep valres quantile valres thres not working for optimmax valres valres tokeep,DEFECT
+1586,wed apr i leaving function along necessarily break solaris i leaving code timings case znk,CODE
+1588,todo keep record trialschannels etc removedinterpolated allow marking inspection rather outright rejection,CODE
+1594,todo make covariance matrices canoncical ones take r instead data replace getposteriormatrices individual access function thoughts add ability prune lowweight components test ed maybe want separate datadriven canonical matrices could runs separate test things improve datadriven matrices could store results one mash run copy whole mash environment,REQUIREMENTS
+1595,older data,CODE
+1597,hack minorcn male samples battenberg bug,DEFECT
+1602,hotfix regions treated timing m m2,CODE
+1606,open shiny app running test interactive mode this force app available run test successfully if better way test please let know see thread https groupsgooglecomforum topicshinyappsuserselmov1eurq,TEST
+1609,analyse option choose whether filtering calculated minimacreported statistics cat basename minimac analysing n candidate variantsn sep,ALGORITHM
+1610,colocfast minimalist implementation intended internal function use inside data table grouped operations inside multicoloc fixme returns na alpha12alpha21 join type inner beta na important multicoloc signal2,CODE
+1611,fixme make slick,CODE
+1612,fixme may return zero rows handle gracefully,CODE
+1614,query marginal statistics analysis2 fixme handle better multicolocdata always return signal2 default marginal lookup,DEFECT
+1615,fixme explicitly pass priors,DEFECT
+1624,internal function query conditional signals partly fully overlap query region fixme currently selection entity supported,REQUIREMENTS
+1630,data rows fixme add expected columns attr ibutes,DOCUMENTATION
+1633,fixme setdiff names attr data nullppcleo add true zeros,DEFECT
+1635,aggregate signals fixme throws error data rows,DEFECT
+1640,otherwise query nearest genes left right arbitrary tie breaking fixme perfect,CODE
+1642,fixme filter proteincodingonly,CODE
+1643,fixme return data table zero rows,CODE
+1645,happen,DEFECT
+1648,changing call true would make stop message say error occurred gtxfatal2 we want inspect parentframe find error actually occurred fixme,DEFECT
+1661,note gtxanalysisdb used idea deprecated,CODE
+1667,hack work around p line,CODE
+1677,needs better bounds range checking trialparams na fails,TEST
+1685,work fine filtering arguments missing internally sets allanalyses true,CODE
+1698,readcsv force settings stringsasfactors true case user options try override,CODE
+1704,fixme check column classes character,CODE
+1705,fixme check code runs transformations,CODE
+1708,force poppnitt even though mandated variable per dsm code groupall assumes poppnitt exists error fixme allow force list sort columns unique forcelist deps computing demographics tables,ALGORITHM
+1713,even though reapply transformations subsets work complete analysis dataset,ARCHITECTURE
+1714,fixme trycatch inside,CODE
+1716,there s dataframe option name fixme,CODE
+1718,print model summary gx report note that with empty models drop1 throws unhelpful error message drop1 m0 test chisq,TEST
+1721,note fast,ARCHITECTURE
+1724,fixme should warn truncate titles characters,DEFECT
+1727,fixme allow option row names suppressed pdf requires pass option textgrid,REQUIREMENTS
+1728,fixme throw error fails,CODE
+1731,this generates undeclared import warning r cmd check sure fixme,DEFECT
+1738,current db format means r included table hence substitute missing zero fixme dangerous return incorrect numerical data currently use single alpha col bg coding noncoding precalculate,DEFECT
+1739,fixme still quite right,DEFECT
+1744,deprecate s cleaner caller use trycatch,CODE
+1749,fixme kerberized environment consider select effectiveuser relevant clientside user host,DEFECT
+1750,fixme grepl content dbs ticket expired help user,USABILITY
+1751,fixme grepl content scdb ticket expired help user,USABILITY
+1759,else x x singular happen,CODE
+1771,fixme see issue https githubcomstephenslabsusierissues21,DEFECT
+1779,todo check cache age,CODE
+1785,todo what length,CODE
+1790,todo need validate task needs id,CODE
+1794,todo error files static todo better way get primary document besides allfiles,CODE
+1801,todo decide limit inf helpful hack essentially row limit paging,CODE
+1810,todo check whether schedule actually exists todo fix capitalization day days first n provided todo type weekday make sure schedule turned json blob properly,CODE
+1813,todo need find way denote categories error chr can assign category app todo need protect bad data structure todo possible could decouple connect server get strange results ie build tag tree server a use setcontenttags server b ids would match,DEFECT
+1823,todo need validate task needs taskid,CODE
+1836,fails today,TEST
+1837,fails today,TEST
+1843,note bit misnomer variable weightnames actualy vector term names midas weights it actual name weight function this leftover old code,CODE
+1844,this workaround ar model,CODE
+1847,ugly code fix,CODE
+1856,how handle multiple plots cluster,CODE
+1880,assuming dimnames pooled correlation matrix may require safety check try simulation studies,ARCHITECTURE
+1885,move ending side might still broken,DEFECT
+1891,todo the following double forloop necessary require one connection per argument,CODE
+1895,todo rm causing issues isnull private futurepromise rm private futurepromise,ARCHITECTURE
+1903,work autowiring,TEST
+1909,error index ok computable currently selected product nt save nocov possible interactive exec,TEST
+1918,nocov start,TEST
+1919,nocov end,TEST
+1922,nocov end,TEST
+1923,nocov start,TEST
+1925,nocov start,TEST
+1926,nocov end,TEST
+1930,nocov end,TEST
+1935,nocov start,TEST
+1953,nocov end,TEST
+1954,nocov end,TEST
+1957,nocov start,TEST
+1964,nocov start names bands available selected product,TEST
+1966,nocov start,TEST
+1972,nocov end,TEST
+1977,nocov nolint,TEST
+1979,nocov,TEST
+1981,nocov start,TEST
+1982,nocov end,TEST
+1984,nocov,TEST
+1995,nocov end,TEST
+2000,coverage viable interactive nocov start,TEST
+2005,momentarly disable todo reenable travis gets gdal expectequal filesizes c,BUILD
+2008,select automatically appropriate task due data target,REQUIREMENTS
+2009,currsign asmatrix results selectedvars case signature slot returned due lack memory see internalmmpc final part,ARCHITECTURE
+2011,currsign asmatrix results selectedvars case signature slot returned due lack memory see internalses final part,ARCHITECTURE
+2017,currsign asmatrix results selectedvars case signature slot returned due lack memory see internalses final part,ARCHITECTURE
+2020,select automatically appropriate task due data target,REQUIREMENTS
+2022,select automatically appropriate task due data target,REQUIREMENTS
+2039,convert factor factor already categorical version not done factors avoid dropping zero levels probably handle surv object,DESIGN
+2046,take minmax value outside not a standalone function,DESIGN
+2047,put variables names back looping rows solve,CODE
+2053,identical constant comparison tc vector zero vector divisor also zero nan due division zero variance redefined zero,DEFECT
+2058,nlmixr id datasets actually factors merging id original dataset risky,ARCHITECTURE
+2061,store encountered states actions rewards corresponding episode number possibly write file set maximum size preallocation,REQUIREMENTS
+2062,fixme allow mse errors,CODE
+2064,fixme add character actions eg left,REQUIREMENTS
+2070,fixme check arguments policy,CODE
+2072,fixme check arguments,CODE
+2076,keras model fixme add support mxnet,REQUIREMENTS
+2079,todo if colnames rownames found fill nas this undersirable behaviour molecularprofiles list dna dna rna rna snp snp cnv cnv todo determine i use summarizedexperiment construtor,DEFECT
+2090,helper functions todo add function documentation,DOCUMENTATION
+2092,todo add function documentation,DOCUMENTATION
+2104,todo removed classversion se property specific eset testthat expectequal lapply psetold molecularprofiles function x x classversion lapply psetnew molecularprofiles function x x metadata classversion info the classversion equivalent,TEST
+2107,complain complain todo add wanring strings expectwarning call complain complain,USABILITY
+2113,todo migrate tests coregx,TEST
+2123,fix labels,DEFECT
+2126,init weights unlabeled data uw ones size u1 psup somewhat conservative choice stupid,REQUIREMENTS
+2127,could matter big data,ARCHITECTURE
+2128,project twice sure,ALGORITHM
+2134,argh really want use anyway,CODE
+2145,fixme use j eg times message base message value paste value collapse metadata must match exactly data partially matched,DEFECT
+2148,nocov,TEST
+2150,nocov end,TEST
+2156,nocov,TEST
+2158,nocov,TEST
+2159,nocov,TEST
+2162,nocov,TEST
+2168,nocov,TEST
+2170,nocov,TEST
+2171,nocov,TEST
+2180,nocov,TEST
+2183,nocov,TEST
+2184,nocov,TEST
+2191,nocov,TEST
+2194,nocov,TEST
+2195,nocov,TEST
+2201,nocov,TEST
+2213,set default type none provided nocov start,TEST
+2219,nocov end,TEST
+2223,nocov,TEST
+2227,nocov,TEST
+2231,nocov,TEST
+2236,parallel times wo nt detect fc otherwise,CODE
+2240,sucks i ca nt afford dependency 35x comes biocmanager,BUILD
+2241,xxx todo,CODE
+2246,git github currently supported github allows us checkout via svn,VERSIONING
+2255,call straight writepackages packages file already exists empty unpacked true subdirs field present existing packages file,CODE
+2259,todo check lbls length,CODE
+2277,lag stats lag nt work dplyr lag,DEFECT
+2281,figure cutoffs use maybe elagent ways quick dirty works,CODE
+2287,note check done hinder issues empty tabix files,CODE
+2295,split data todo allow user supply cvcontrol like argument split either single value or vector validrows iswholenumber borrowed isinteger,REQUIREMENTS
+2296,using require instead requirenamespace allow formula parse correctly gam s nt work recognized special function,DEFECT
+2300,todo support early stopping requires watchlist see xgbtrain,REQUIREMENTS
+2306,todo test hyperparameter optimization,TEST
+2317,need cleanup future tests nt fail use object,TEST
+2318,need cleanup future tests nt fail use object,TEST
+2319,need cleanup future tests nt fail use object,TEST
+2335,hack anovalme forbids classes recognise dispersion,DEFECT
+2339,guess insufficient obtain overcount number pairs work around gcc bug,DEFECT
+2346,hackglmmr revision date,CODE
+2351,trick kdot,CODE
+2355,temporary hack save info points,CODE
+2359,this slow,ARCHITECTURE
+2363,ydescrip quadrature schemes used,CODE
+2365,uncorrected for demonstration purposes,DEFECT
+2379,make fv object,CODE
+2387,s check funny business,CODE
+2391,slow code,ARCHITECTURE
+2398,work around changes unitname,DEFECT
+2399,bugs code blocks splitppp split ppp splitppp,CODE
+2407,wontt remove tables wo nt need reassign table r id s rename,CODE
+2412,set exclusions na preserving ids case one,CODE
+2419,mc ca nt use predicted value workpred rqresult predictedbysurvival,DEFECT
+2421,na change data adjpvalue isna data adjpvalue missing grey,CODE
+2424,null last protein,CODE
+2436,elegant way switching strings logical values,CODE
+2437,elegant way switching strings logical values,CODE
+2456,temporary,CODE
+2458,initialize token plotted boxplot method chosen null,DESIGN
+2462,trick start counting naming nodes,CODE
+2470,transformation matrix division fixme change sign rows pointed,ALGORITHM
+2471,fixme eventually incorporate awac continental devices using formulae coefficients nortek forum for awac table cell size looks like mhz khz and continental khz khz,REQUIREMENTS
+2482,fixme find whether echosounder records ever v q etc my guess fixme answer docs really clear they fixme say little anything averageburstbottomtracktext fixme if i discover echosounder data lack things i trim fixme code immediately following comment also datainsertion fixme code comes ch loop velocityincluded p echosounder length unique velocityincluded p echosounder stop velocityincluded values nonunique across echosounder data records echosounder v array double dimc length p echosounder ncellsechosounder nbeamsechosounder amplitudeincluded p echosounder length unique amplitudeincluded p echosounder stop amplitudeincluded values nonunique across echosounder data records echosounder array raw dimc length p echosounder ncellsechosounder nbeamsechosounder correlationincluded p echosounder length unique correlationincluded p echosounder stop correlationincluded values nonunique across echosounder data records echosounder q array raw dimc length p echosounder ncellsechosounder nbeamsechosounder altimeterincluded p echosounder length unique altimeterincluded p echosounder stop altimeterincluded values nonunique across echosounder data records echosounder altimeterdistance vector numeric length p echosounder astincluded p echosounder echosounder astdistance vector numeric length p echosounder echosounder astpressure vector numeric length p echosounder,DEFECT
+2483,fixme read fields following list,REQUIREMENTS
+2484,fixme read fields following list,REQUIREMENTS
+2491,fixme determine echosounder records types data intermixed the docs clear whether echosounder data ever v etc commentedout the main reason i think things 2byte sequence holds nbeamncell data types holds ncells echosounders ncol echosounder numberofbeams nrow echosounder numberofcells n ncol nrow n2 n i0 velocityincluded ch v velocityfactor ch readbin buf ii0seq n21 integer size2 nn endian little echosounder v echosounder matrix v ncolncol nrownrow byrowfalse i0 i0 n2 amplitudeincluded ch buf i0 seq n1 echosounder echosounder matrix ncolncol nrownrow byrowfalse i0 i0 n correlationincluded ch q buf i0 seq n1 echosounder q echosounder matrix q ncolncol nrownrow byrowfalse i0 i0 n altimeterincluded ch echosounder altimeterdistance echosounder readbin buf i0 numeric size4 nncellsechosounder p echosounder endian little fixme perhaps save altimeterquality next bytes fixme perhaps save altimeterstatus next bytes i0 i0 astincluded ch bytes distance quality offset pressure spare echosounder astdistance readbin buf i0 numeric size4 n1 endian little i0 i0 advance past distance bytes skip skip quality bytes offset bytes echosounder astpressure readbin buf i0 numeric size4 n1 endian little i0 i0 skip spare bytes altimeterrawincluded ch echosounder altimeterrawnumberofsamples readbin buf ii003 integer size4 n1 endian little i0 i0 echosounder altimeterrawsampledistance readbin buf ii001 integer size2 n1 endian little signedfalse i0 i0 echosounder altimeterrawsamples readbin buf ii001 integer size2 n1 endian little singed frac docs i0 i0,DEFECT
+2498,catch later,CODE
+2502,year fixme check month day hour min sec,DEFECT
+2517,general work make metadata profile count match data array dimensions fixme handle ad2cp the general method nt know distance special concatenated undo fixme handle ad2cp,DEFECT
+2518,ad2cp stored tricky way,CODE
+2520,message asking recordtypes fixme ad2cprecordtype update new record types added readadpad2cp,REQUIREMENTS
+2524,fixme fastslow,ARCHITECTURE
+2531,fixme decide 5beam adcps,REQUIREMENTS
+2532,fixme i want,REQUIREMENTS
+2539,old dim z dim x data fixme,CODE
+2540,fixme delete next block testing,TEST
+2543,fixme assume equal,ALGORITHM
+2549,fixme handle xup xdown yup ydown zup zdown,REQUIREMENTS
+2551,fixme perhaps use declination rotating e n but first need know declination used instrument creation ahrs,REQUIREMENTS
+2555,fixme ok extend data edges,ALGORITHM
+2559,fixme i think poor way determine instrument type why even try warning unexpected length fldlength fixedleaderdata header expecting surveyorobservor workhorse,CODE
+2561,fixme probably would save time read elements instrument check,CODE
+2562,fixme possibly wrong,CODE
+2570,snavtime asposixct snavtime origin19700101 tztz rdradcpm line fixme c operation slow inelegant,ARCHITECTURE
+2576,sig p82 c code suggests sec100 comes second fixme determine whether 1100th second,CODE
+2591,fixme,CODE
+2599,update res metadata measurementdeltat fixme,DEFECT
+2602,fixme subsampled,ALGORITHM
+2607,fixme guessbased kludge infer whether continuous burstmode sample,CODE
+2608,fixme use j eg times,CODE
+2609,fixme readadv variants argument list,CODE
+2616,a1 a2 a3 fixmedry alter a1 a2 a3 alter q1 q2 q3 since almost,ALGORITHM
+2622,may fixme sontek adv transformation matrix equal units nortek vector sontek serial number b373h transformation matrix rbind c c c transformationmatrix rbind c c c,ALGORITHM
+2626,float xmitrecdist float calcw fixme bytes total,ARCHITECTURE
+2631,fixme it would better deal binary file format unclear fixme two files available differ considerably neither matching fixme sontek documentation,CODE
+2634,fixme,CODE
+2641,apply flag data fixme seems wrong,DEFECT
+2652,map fixme coastline selection dry,CODE
+2653,s profile fixme handle noise document,DOCUMENTATION
+2663,catch s use removed later time,CODE
+2674,fixme ignoring lonlim latlim,CODE
+2676,fixme always work,DEFECT
+2681,it s connection ie file q ever happen,CODE
+2683,fixme i think would best handle everything i ve done case d,ARCHITECTURE
+2687,i could find searches seadatant maybe s form dissolved oxygen crazy make gusses,ALGORITHM
+2690,fixme maybe look median value make guess warning ctd object lack conductivity units assuming ratio,DEFECT
+2697,param recovery optional indication recovery time format described starttime this presently used oce stored result s metadata slot case user requires,CODE
+2704,fixme setting waterdepth tricky results ve issues,DEFECT
+2707,richardsc think still need sts ts tts map,CODE
+2714,fixme next lines used loop i nt see moved,CODE
+2717,fixmegsw handle gsw,CODE
+2718,note larger case,CODE
+2726,fixme guess scale,REQUIREMENTS
+2731,bug poor nonrobust approximation pressure,ARCHITECTURE
+2741,jitter lat equiv 1mm avoid colocation fixme jitter imagep,DEFECT
+2747,fixme info could gleaned comment needed,CODE
+2748,test 01fishdt4 follows mpingbeginrangem mpingbeginrangem mpingendrangem mpingendrangem get follows range depth ie 12cm error top 20cm error bottom note diff depth fixme check depth mismatch relates sound speed b geometry small error low priority,TEST
+2760,ensure x increase fixme check equal values,CODE
+2768,fixme ignoring decimation may best anyway,ALGORITHM
+2773,possibly needed utm possibly needed utm,CODE
+2779,necessitated use n case isolated islands avoid getting confused eg view two islands fixme kludge avoid weird horiz lines fixme would better complete polygons fixme filled it might smart c,CODE
+2783,fixme i wonder i nt use optimize method i use side1 well maybe i ought try i sort think bracketuniroot method best note issue i tol uniroot set 1deg nutty,CODE
+2784,fixme islogical grid grid grid rep message,CODE
+2786,fixme meridians zones added later change depending fixme pretty operation,ALGORITHM
+2788,if pole present put longitude lines around world matter else true,ALGORITHM
+2795,important whether write breaks breakssmall important heart several issues including important issues possibly issue522 w zval breaks issue655 w zval breaks sometime later w zval breaks small,CODE
+2811,fixme,DEFECT
+2815,fixme,DEFECT
+2835,rbr tdr substr line fixme obsolete removed fall,CODE
+2839,fixme need advsontek non adr,REQUIREMENTS
+2841,guess timezone fixme s different column,CODE
+2850,store local values tricky cases reversing axes etc,ARCHITECTURE
+2851,risky code look first match isolate rhs eqquality,CODE
+2852,fixme water column depth sensor depth fixme sensible,CODE
+2854,stage insert metadata odfheader holding entire odf header info fixme add types starting adcp perhaps,REQUIREMENTS
+2879,developer alter line suit new data class,DESIGN
+2887,fixme keep,CODE
+2892,grid regular need first station unless which data fixme checking first value,DEFECT
+2896,fixme latitude lat confusing,CODE
+2898,fixme wrong formulae,DEFECT
+2915,note use local gravity gsw defined use value,CODE
+2917,radians per degree tref isodate tz utc ever used tref centraltime used previous dk branch early,CODE
+2933,fixme next tests fail store ahrs 3d array databursthrahrsrotationmatrix,TEST
+2938,know beam fixme look text things eg beam cells etc d3 text text grep cy,CODE
+2940,remaining to do see https githubcomdankelleyoceissues1122 bphasedoxy2 c1phasedoxy c2phasedoxy frequencydoxy humiditynitrate ibph phasedelaydoxy rphasedoxy tphasedoxy,REQUIREMENTS
+2943,zlim next call ignored fixme add test first cm,TEST
+2948,fixme add tests data,TEST
+2953,fixme yield warning run test suite expectwarning readoce localdatactd989111p1dntxt nas introduced coercion,TEST
+2954,we test i386windows early rgdal test machine version coding error relating using undefined variable named nas cause failure build,TEST
+2957,q much difference q tol0001 fail,TEST
+2962,z0 special bug fixme,DEFECT
+2966,temporary hack predictiveerror call posteriorsurvfit two separate conditioning times,CODE
+2967,print priors interceptcoefs called internally printpriorsummarystanreg param p named list prior stuff param txt header printed param formatters list two formatter functions like fr2 fr3 defined priorsummarystanreg the first used format numbers except adjusted scales second function used this kind hacky replaced point,CODE
+2969,nocov end,TEST
+2975,nocov start code unused weights interpreted number trials binomial glms,TEST
+2985,this file intended used installation process nocov start,TEST
+3000,todo,CODE
+3004,todo with change add possibility adjust cytoband labels position,CODE
+3007,todo add cytobands parameter allow explicitly passing cytobands function call instead relying available karyoplot object,DESIGN
+3011,todo add checks windowsize numeric,CODE
+3017,plot todo remove cex lwd lty col present,CODE
+3018,todo adjust positioning algorithm zoom active labels fall plotregion todo implement vertical label displacement accomodate labels plot,ALGORITHM
+3020,todo should reorder parameters specially parameter passed dots length datapoints,CODE
+3023,todo add parameter specify center default start xplotx0plot end xplotx1plot,CODE
+3028,check invalid genomes fixit the error trapped trycatch propagate expectmessage getcytobands genome invalidgenome,DEFECT
+3038,correct bounded parameters dodgy i know,CODE
+3045,weirdo format,CODE
+3056,todo add ability turn advanced options script for provide informative error,REQUIREMENTS
+3064,todo move val1std stddev column pars need todo move time series values time series data frame todo move point estimates scalar data frame,CODE
+3065,add code divide id different codes species parse scenarios columns plotting later use old code,CODE
+3078,specification indexparams need,CODE
+3081,add error empirical weightatage comp data note arguments passed function s functionality turned setting wtatage switch if s ss ignore wtatagedat file need turn like data todo check section wtatage implementation changed,ALGORITHM
+3082,write log file todo pull log file writing separate function update current arguments,USABILITY
+3083,pause reduce average cpue use,ARCHITECTURE
+3101,ugly start need fix,DEFECT
+3103,this quite hack awssignature locatecredentials nt return valid aws object makes names trying detect case remap since quite likely users try use,DEFECT
+3113,error dirfile create fails even though nt exist,DEFECT
+3118,modify namespace output instructions,DESIGN
+3122,check roxygen documentation todo stop test roxygen2 found,DOCUMENTATION
+3128,variantannotation bug sv row names unique ensure names defined,CODE
+3129,hack ensure exists even zero record vcfs,CODE
+3146,strwrap treats nonbreaking spaces differently breaking spaces fuck things decimal padding so end spaces become nonbreaking,CODE
+3152,outputdir works around bug,CODE
+3157,need parse taxonomy still,CODE
+3161,bad idea,CODE
+3165,bad start s worse nullcoef reset everything,CODE
+3181,todo for l8 load sirfrefl directly like modis dry,REQUIREMENTS
+3184,bug raster package workaround https gisstackexchangecomquestions264133rasterbuffererrorwithpackageupdates264154,DEFECT
+3189,bug raster package workaround https gisstackexchangecomquestions264133rasterbuffererrorwithpackageupdates264154,DEFECT
+3192,fix me work exacttrue usa work,CODE
+3198,ad todo solve problem uk vs ukrain but simple set named polygons map database if comes anything world could break something else we leave,DEFECT
+3203,todo heights,CODE
+3207,you d think could semijoin scramble order rows ll use ugly way,CODE
+3213,if wanted totally vectorial could compute running total nx tells us index row column vectors document acc matrix 0l nrowlength nx ncollength nx acc uppertri rsum diagt 1l indices nx acc calculate al1 sequences advance whatevs,DOCUMENTATION
+3215,todo rcpp,ARCHITECTURE
+3230,todo validation,TEST
+3245,todo cached,ARCHITECTURE
+3246,define builtin word lists s enough data file around much nt work ca nt ship word list due copyright restrictions code left intact though get permission include word lists future,DEFECT
+3255,punct value counted looking punctuation tags removed character level due punctuation removed tokens treetagger tokenizer s still residual left,TEST
+3256,error message ugly,CODE
+3263,take r color return hssfcolor object param rcolor string note only limited set colors supported see java api,DEFECT
+3280,todo geneset previous step,REQUIREMENTS
+3284,number regulons summary sizes todo,CODE
+3290,todo make neat way,CODE
+3295,perform winsorizing normalizing todo allow supplying variables variables nonzero importances,CODE
+3305,todo make optional argument function explain replace dummy indicators factornames single sum,REQUIREMENTS
+3308,todo still leaves us complements nonterminal rules names ret ischaracter else names x root node returns,ALGORITHM
+3311,todo handle errors,CODE
+3313,todo multiple custom database id types gene sets gene set description file gene set dag file gene set network file,REQUIREMENTS
+3321,somewhat inefficient w a1 l2 a2 l3 a3 y p a11 setting l3 mean l2 l3 mean none used p a11 re a1,ARCHITECTURE
+3322,put trycatch,CODE
+3334,this hacky way find variables needed calculate results summarize it definitely wo nt get right time problems i think cause extra variables collected database nt seem like end world,DEFECT
+3337,nocov start compatpurrr last updated rlang,TEST
+3341,because machine precision issues here s hacky way force though technically limits us digits precision alpha seems like enough could go higher i worry 32bit vs 64bit systems,CODE
+3352,use lm instead,CODE
+3355,use lm instead,CODE
+3357,workaround localmax fails otherwise,CODE
+3369,for nt allow nas x,CODE
+3374,fix xcmsraw metadata always calculate later,CODE
+3380,that s working integration uses rt,DEFECT
+3382,findpeaksmatchedfilterorig we re keeping one comparison unit tests removed soon,TEST
+3383,jo todo lll replace implementation c note function silently drops retention times intensitymz pair measured,ARCHITECTURE
+3386,newer mzml mzxml sure change this means one gap,DEFECT
+3391,exists object filled always returns false,DEFECT
+3393,findpeakspar this point replaced call need parameter lists getting options environment,DESIGN
+3398,todo studyvariable separated done assay assay assay assay assay assay,DEFECT
+3399,what re completely,TEST
+3404,lllll todo continue add example extractmsdata help page on ondiskmsnexp mz rt,CODE
+3405,todo add ncores,ALGORITHM
+3417,what else tested,TEST
+3419,select best model remove others need to edit this,ALGORITHM
+3436,todo decide deal,ALGORITHM
+3438,need add analysisid metadata,REQUIREMENTS
+3443,add lots test tables ids todo,TEST
+3445,need to update fucntion implementing preprocessing normalisation redundant features removal,DESIGN
+3446,save model outloc todo make input temp location,REQUIREMENTS
+3450,clean modeltable todo,USABILITY
+3452,todo incorporate indexes,CODE
+3454,todo get lambda param,CODE
+3463,select best model remove others need to edit this,ALGORITHM
+3465,todo replace outputfolder make relative positions,CODE
+3470,does this correctly transfer autoencoder bits,DEFECT
+3475,todo test pref scores test computepreferencescore prediction,TEST
+3479,test exportplpdatatocsv,TEST
+3485,todo add input checks test options fftempdir getwd,TEST
+3486,fails plpresult null,TEST
+3490,fails target outcome schemas differ,TEST
+3498,file found return positive probably unless s overwrite option purposes return true,DESIGN
+3499,file exist older day download afresh working downloadfile seem update mtime,DEFECT
+3502,crop using raster rast gdal note gdalwarp used cropping croptocutline option causes shift cell locations affects stats extracted a gdalbased crop extent would highly desirable performance reasons though seeking gdalbased workarounds,ALGORITHM
+3506,todo unmatched arg one left eg rnorm mean0 sd15 unmatched args take multiple eg sum,DEFECT
+3517,fixme defined parameters never get psrf others see line lavprintr,DESIGN
+3526,nb truncation nt work well stan instead use generated quantities fact,DEFECT
+3530,use quickanddirty way,CODE
+3538,figure many categories ordered variables todo seems like already hidden somewhere lavaan,DESIGN
+3540,todo add thresholds need scale factors delta parameterization,REQUIREMENTS
+3543,needed,CODE
+3544,todo thresholds,REQUIREMENTS
+3553,todo first definition obsvarx,CODE
+3555,lavaan fixme x ovnamesx sometimes length sometimes na,CODE
+3562,todo ensure covpars ordered varpars,CODE
+3563,todo really need mcmcpack compute log density nb wishart precision matrix need invert,ALGORITHM
+3570,find parameters arising wishart todo currently skips priors placed variancessds could instead set extra handling,DEFECT
+3571,generate initial values fixme something smarter upon failure,USABILITY
+3574,todo assumes equal another covariance models restrict covariances equal types parameters,DEFECT
+3581,constraints one parameter label lhs fixme handle eg b1 b2 see lavpartableconstraintsr,DEFECT
+3582,todo assumes equal another covariance models restrict covariances equal types parameters,ALGORITHM
+3584,fixme remove covariances associated fixed x covpars partable op partable lhs partable rhs partable group partable lhs ovnamesx partable free length covpars partable partable covpars,ALGORITHM
+3588,nocov end,TEST
+3592,toplevel handler intended testing design might change,TEST
+3594,docall work around r cmd check issue,BUILD
+3604,careful here delayed redefined,CODE
+3612,coping weird test behaviour cran rdevel,TEST
+3618,not use yet param beamlist character whether use beams default param skipbeams character list beam numbers skip no spaces eg param readbeams character list beam numbers read no spaces eg,CODE
+3632,the tweak edger avoid nan problems cause workflow stallcrash,BUILD
+3636,todo impact could use attention,REQUIREMENTS
+3646,note i left lot settings boot boot defaults nt expose feel free gdb,DESIGN
+3649,todo add actionvariety getenumby,REQUIREMENTS
+3654,todo conversion tofrom factor messes dimnames order,REQUIREMENTS
+3666,todo check fl,CODE
+3667,hack clean fixed list elements named vectors,CODE
+3680,show todo show median var lowquppq,USABILITY
+3682,todo proper recage,CODE
+3687,todo check options,CODE
+3689,code producing ssb file retrieves ssb flindex assumes ssb file always last,DEFECT
+3690,sure stand yet,CODE
+3692,todo iagoazti pass open connection readtable open connection closes exit con file file r onexit close con,CODE
+3693,output vector hack first values end,CODE
+3697,todo expand aperm flpars,REQUIREMENTS
+3699,trick,CODE
+3700,hack,CODE
+3706,fix this to just show half not specific time,DEFECT
+3718,refsub vector entry contains reference entry ie v v v refsub subtract references main components factor references factor add reference thus need two versions refsub one na s reference factor one na s must replace na s zero subtracting ones belong factor make factor decide,CODE
+3720,modelresponse nt work multiple responses modelresponse mf numeric,DEFECT
+3723,some kludge able use nonquoted expression fun,CODE
+3728,case,CODE
+3738,todo unlist topics column,CODE
+3746,todo the following two lines product mlgfilter,CODE
+3747,the sequence option converts letters numbers if last test worked test work,TEST
+3748,todo test handling missing data considered new genotype,TEST
+3763,nocov end,TEST
+3765,nocov end,TEST
+3773,nocov end,TEST
+3775,nocov end,TEST
+3782,nocov start,TEST
+3785,nocov end,TEST
+3793,exported still works gatk,DESIGN
+3799,quick fix,CODE
+3802,ratio gcmoriginal the problem denominator close zero srtest abs ys m1 ys ys m1 kmp removed abs made reference data denominator,TEST
+3807,ca nt remember reb,CODE
+3818,kmp changed include model attrcp is reason copy model,CODE
+3821,what x subset x islist ilonold jlatold,CODE
+3825,workaround server wo nt give time steps,CODE
+3846,todo relative gof http wwwstatwmicheduwang561codesrcancorr,ALGORITHM
+3849,cant remember i put null,CODE
+3854,error carma 3g 1xregs error datatable data1 paste0 unlist lagcolss datatable shift sd some items sdcols column names thirdgroupdeptlag1weeklysales,DEFECT
+3859,trick produce equal output,CODE
+3860,if possible detect debug on error not set rstudio if skip warning case rstudio console override error,REQUIREMENTS
+3864,ad hoc needed instance xml attached,CODE
+3865,rstudio console workarounds,BUILD
+3876,fixme remove may,CODE
+3878,fixme remove may,CODE
+3882,fixme remove may,CODE
+3883,fixme remove may,CODE
+3884,clean templates extraneous na values users often add nas templates emlassemblyline expects this removes nas nt replaces note any value listed missingvaluecode field interpreted attributestxt templates input files in contrast inputs supplied argument x isna returns true values missingvaluecode field nas converted todo move process validatetemplates,DESIGN
+3885,catvarstxt remove incomplete cases remove white space fixme ignore blank ie categorical codes implement metadata quality check functions developed see github issue,CODE
+3887,fixme blank entries result closing tags eml written file need function set elements value null,DEFECT
+3888,fixme blank entries result closing tags eml written file need function set elements value null,DEFECT
+3890,fixme blank entries result closing tags eml written file need function set elements value null,DEFECT
+3896,fixme dataurl deprecated remove support argument march,CODE
+3897,fixme eml v200 handles absense missingvalue codes differently eml v this fixes issue though may better implement fix eml v200,DESIGN
+3900,txt well supported eml settexttype reading txt file character strings parsing paragraphs works better,DEFECT
+3905,fixme warn user possible empty columns ie v digit,CODE
+3906,fixme automatically create bounding coordinates,CODE
+3907,fixme report nonutf8 encoded characters generalize function texttype templates,DESIGN
+3909,class numeric classed attributes units units dictionary defined customunitstxt fixme this check report invalid content attributestxt templates first violation encountered,DESIGN
+3914,fixme remove next line code table attributes categorical variables consolidated respective single templates ie tableattributestxt tablecategoricalvariablestxt,CODE
+3915,fixme create function remove user supplied na templates common issue emlassemblyline smart enough ignore,CODE
+3916,na accepted dev level devtools installgithub ropenscirgbif still cran version only null accepted,CODE
+3932,todo use sethmstimes import avoid errors,CODE
+3935,todo rewrite synthesized sample data,TEST
+3940,fix global variable nagging build old xpath,CODE
+3959,ok first i d found maximum probabilities day comapre means,CODE
+3963,todo nt yet check raster i would need create datalistrastercsv file,CODE
+3965,filter country name admin field ne todo i might able add name field ne,CODE
+3978,handle factor fixme numeric,DEFECT
+3984,plot 1d smooths currently prune s fixme,ALGORITHM
+3989,add confidence interval consistent nt add could evaluated mutate evaluated upper data partial data se lower data partial data se,ALGORITHM
+3990,remove offset var modelframe returns offset foo var var remove former also want set offset variable var something constant fixme,CODE
+3998,not sure i need shquote,CODE
+3999,os independent cleanup risky,CODE
+4002,i check first column names might,CODE
+4007,what length equals zero,CODE
+4015,with code still possible provide incorrect parameter not sure,DEFECT
+4022,state organic matter possible parameters will keep ones hard coded,CODE
+4027,why work instead extraction x name,DEFECT
+4030,i guess i run nonlocally,TEST
+4032,one trick test locally,TEST
+4033,this laptop,CODE
+4035,deal multiple rsid snpid columns nt care need least one,CODE
+4036,really way s3 system work,DESIGN
+4040,proto restricted definiton identifiers work around introducing special quoting scheme,CODE
+4042,clip las work within buffer section powerline todo need xyz save memory better clipping,ARCHITECTURE
+4044,todo add unchecked warning,CODE
+4048,anything shift responsibility backend todo maybe give warning unchecked,ARCHITECTURE
+4050,todo adapt i add parameterargument variables listed since created graph,CODE
+4053,todo think vector,CODE
+4056,used right,CODE
+4057,probably deep copy object body problem index addressed variable parent environment this causes problem call time index resolve means usually last element list used process time solution serialize index gsub quote make asname ascall,DESIGN
+4068,not sure works,CODE
+4071,stupid way getting correct column names without collisions almost certainly,CODE
+4072,not sure good ways testing given set seed looked answer i know final model formula longer intercept variables,TEST
+4080,stop registred one exception parallelstart happen whole following code full horrible stuff i change parallel really buggy design horrible stopcluster work called via stopcluster null default cluster through envir assign magic cl gets set null stopped via s3 inheritance b stopcluster also throw amn exception none registered great apparently way asking whether one alrealdy registered,ARCHITECTURE
+4093,todo what as events match anything,ALGORITHM
+4114,todo nunoa slow process try improve,ARCHITECTURE
+4117,todo nunoa still conflict ask user file format use,USABILITY
+4119,slower reduce var fails,ARCHITECTURE
+4122,todo evil magic numbers,CODE
+4130,check required inputs check names silly input null,CODE
+4139,fixme fixme fixme this not not up to date,DEFECT
+4149,high need set,ALGORITHM
+4152,the object this actually never used might put con similar structure day keep hb,DESIGN
+4153,ad hocspecialillegal case hb,DEFECT
+4163,not needed anymore,CODE
+4169,not needed anymore,CODE
+4175,if format matlab default scalars vectors written arrays format matlab reads otherwise written mat v5 format indeed supports however since probably going needed anyone decided put format argument main function readmat ever need add,ALGORITHM
+4176,default always overwrite existing file should made argument,DESIGN
+4188,checking classes input args the istrue stuff needed r nt know isna raster data barfing error raster passed,DESIGN
+4190,this weird hack done dismo s evaluate bioclim function fail stack one layer,CODE
+4197,this weird hack done dismo s evaluate function fails stack one layer,CODE
+4200,this weird hack done dismo s evaluate function fails stack one layer,CODE
+4210,user overriding default warn potential stupidity,USABILITY
+4215,produces error winbuild expectwarning mtcarss hypothesize null c point independence mu,TEST
+4218,note the translates base0 base1 index not ideal get escape characters nicely,CODE
+4222,dumb terminal good,USABILITY
+4239,estimator ml avoid hard error using stop throw warning return empty matrix,USABILITY
+4252,fixme se none test none,TEST
+4256,fixme se none test none,TEST
+4259,assume computedelta always return thresholds first correlations later add working addlabels true option computedelta,CODE
+4261,center needed,CODE
+4271,case free column partable,CODE
+4276,fixme nlevels 1l ngroups 1l check group upperlevel,CODE
+4280,fixme check match,CODE
+4285,fixme also x samplestats,CODE
+4286,fixme empty cases include n,DEFECT
+4289,fixme completely unfinished used quickly get something,REQUIREMENTS
+4293,dmnorm,REQUIREMENTS
+4295,fixme old code lavaan surely done better,CODE
+4296,tdj add make method generic lavaanmi add arguments pass lavtestlrt lavtestlrtmi pool chisquared not sure necessary lavaanmethod perhaps generic needs,TEST
+4297,make sure test single element,TEST
+4300,fixme get scaling right,DEFECT
+4305,available yet,REQUIREMENTS
+4316,fixme,DEFECT
+4319,update inverse s removing rows corresponding colums s symmetric matrix removal,ALGORITHM
+4321,initial rotation matrix check init rot ok number random starts row weighting rescale ov ov variances show warnings show iterations used refect sign order lv s stopping tol gpa stopping tol others store replications max gpa iterations,REQUIREMENTS
+4324,assign startingfixed values create empty matrix fixme may want use sparse matrices,ALGORITHM
+4325,dirty hack mimic muml,CODE
+4326,find rowscols adhoc assumption,CODE
+4338,parameter scaling fixme best way set scale current strategy startx rescale using 1startx,CODE
+4347,label rows deltagroup fixme categorical th means interleaved pi var num cor else meanstructure groupwfree,USABILITY
+4354,fixme chol,CODE
+4357,fixme,CODE
+4359,need scores,REQUIREMENTS
+4360,mvnorm fixme allow meanstructure false fixme allow conditionalx true,ALGORITHM
+4367,fixme use rescov resint resth conditionlx yes since,CODE
+4368,fixme better include inactive slacks,CODE
+4380,needed probably case,CODE
+4386,lower bias number clusters high fixme reference,CODE
+4388,debug length withinidx,CODE
+4396,per cluster size y1 null used,CODE
+4405,fixme slack value strict,ALGORITHM
+4411,needed,CODE
+4412,verbose,CODE
+4415,fixme std true depends deltatheta,REQUIREMENTS
+4417,fixme std bz b sx sy,REQUIREMENTS
+4429,todo add cinceq,ALGORITHM
+4432,classic fitting function gls used,CODE
+4433,faster alternative sum wlsv tcrossprod diff,ARCHITECTURE
+4438,check zero likelihoodsprobabilities fixme replace tiny number,REQUIREMENTS
+4443,clustered bruteforce override,CODE
+4444,multilevel bruteforce override,CODE
+4446,observedinformation always h1,CODE
+4448,fixme allow option fixme allow option,CODE
+4456,compute bounds per group todo add levelsclasses,REQUIREMENTS
+4460,fixme order,DEFECT
+4465,residual variances fixme ov only,REQUIREMENTS
+4468,fixme involving ind,CODE
+4470,fixme involving ind,CODE
+4472,beter use lavdata lp g ovxidx case xy mismatch across levels,CODE
+4481,fixme numeric vars,ALGORITHM
+4489,really needed select idxmelidx case need elements beta,CODE
+4497,change options conditionalx,ALGORITHM
+4498,need selist,CODE
+4504,fixme something sensible th slopes,REQUIREMENTS
+4505,lavdata slots fixme keep lavdata names,CODE
+4513,nacov,CODE
+4519,fixme,DEFECT
+4523,fixme shorter way,CODE
+4534,fixme use lisreleqsamos schems,CODE
+4541,case,CODE
+4545,block identifier weird give warning,USABILITY
+4547,dummy regression line,CODE
+4553,needed,CODE
+4561,wow fixme may need reorder rowscolumns first covs lapply mods function x slot slot x sample cov sapply covs allequal covs stop lavaan error models must fit data nested models different npars,DEFECT
+4563,however multiple groups mplus reports something else yr aug much trial error turns shiftparameter b weighted however chisqsquare per group different sum seems ok,DEFECT
+4566,handle equality constraints fixme inequality constraints ignored,ALGORITHM
+4569,fixme move isnull release else written z1plus isnumeric release r object model conjac,CODE
+4581,fixme lavmodelgradient delta,CODE
+4586,need figure nlevels ov s per level fixme need efficient way avoiding lavaanifyvnames,ARCHITECTURE
+4588,sanity check ordered argument case add lhs variables names new ordered true assume user means ordered names data new changed ov,ARCHITECTURE
+4596,todo allow h1 either model syntax parameter table fitted lavaan object,CODE
+4598,copy response patterns cache fixme data included model functions,CODE
+4599,multilevel,REQUIREMENTS
+4601,lavoptions start fit fixme needed,CODE
+4606,clear se values needed global approach compute se,CODE
+4609,store mm fits output,ALGORITHM
+4629,check negative vi s happen case,REQUIREMENTS
+4633,case user supplies limits wrong order,CODE
+4640,starting version compquadform element called qq called res way things work regardless version compquadform installed,ALGORITHM
+4644,todo simplified every time i sit stare mess gives headache,CODE
+4646,fixme x hlevelsf may numeric case wrapping recognized,DEFECT
+4650,todo check computations userdefined weights,REQUIREMENTS
+4652,x ifelse isna x x quite bit slower following,ARCHITECTURE
+4659,check ratio largest smallest sampling variance note need exclude special cases nan max vi inf todo use condition number v instead,ALGORITHM
+4660,todo allow rscale vector different rs scaled differently,REQUIREMENTS
+4663,select correct rowscolumns hessian depending components model fixme nt quite right since diag id rhophi element fixed also exclude fact fixed elements filtered,ALGORITHM
+4667,todo clean attribute elements longer actually part object,DESIGN
+4672,workaround posixct class,CODE
+4678,fixme removeknownratings implemented setmethod removeknownratings signature x binaryratingmatrix function x known known ratingmatrix stop known needs ratingmatrix stop currently implemented,CODE
+4681,fixme measures,CODE
+4684,might fit memory maybe use sample,ARCHITECTURE
+4692,fixme test results expectequivalent pred matrix,TEST
+4702,elegant given part header transform row tibble,CODE
+4703,ignore deaths births,REQUIREMENTS
+4704,for reason piinit nt work mixvbem,DEFECT
+4711,todo libdoctor check packages loaded also broken dll files windows maybe merged libcheck,DEFECT
+4712,todo libupdatestatus,CODE
+4719,todo projprune remove unneeded packages project library,DESIGN
+4721,rules optional false means imports otherwise suggests if package already included remove first if want linkingto depends ll need add manually todo messages changes andor current state todo add version requirements automatically,ALGORITHM
+4722,todo messages changes andor current state,USABILITY
+4728,todo check dead expressions never assigned vars foo x return equivalent foo return first one might error,DEFECT
+4729,todo implement intelligent dead store example return remove first assign todo remove variables affect returned value,CODE
+4730,todo invariant subexpressions motion n x equivalent is1 x n is1 todo check assigned vars moved present parent env add false x equivalent x false,ALGORITHM
+4732,todo numeric values need scaled negatives removed ensure ordering maintained returned back onto data also handle floating point errors using factors,REQUIREMENTS
+4740,todo plot bbox rectangle requested,CODE
+4742,todo sepecific address types c streetaddress route intersection political country administrativearealevel1 administrativearealevel2 administrativearealevel3 administrativearealevel4 administrativearealevel5 colloquialarea locality ward sublocality sublocalitylevel1 sublocalitylevel2 sublocalitylevel3 sublocalitylevel4 sublocalitylevel5 neighbourhood premise subpremise postalcode naturalfeature airport park pointofinterest,REQUIREMENTS
+4743,todo marker clusters add remove layer impact marker layers,TEST
+4745,todo different legend options stroke fill one legend option apply stroke fill,TEST
+4749,nocov start compatpurrr last updated rlang,TEST
+4764,todo use column names rtdists output,CODE
+4769,discussion aki vehtari daniel simpson i disallowed computation loglikelihood values models pointwise solutions implemented,PEOPLE
+4772,ensure deprecated arguments still work param arg input new argument param alias input deprecated argument param default default value alias param warn warning printed alias specified,CODE
+4775,todo define select according parameter names position store samples corresponding data output special grouplevel terms mo mi,REQUIREMENTS
+4776,name extractdraws deprecated brms remove eventually brms,CODE
+4777,todo extend boundary interface parameter classes,DESIGN
+4781,todo include functions selectively,DESIGN
+4782,todo include functions selectively,DESIGN
+4787,exclude priors depend priors todo enable sampling priors well,ALGORITHM
+4789,todo use rstan monitor instead clean stable,BUILD
+4797,fails mkl unknown reasons expectequal waic1 sw waic fit1,TEST
+4801,note dataone version removerelationships parameter order maintain behaviour release relationships deleted default,ALGORITHM
+4802,hard coded get dataone package future,CODE
+4806,create src file todo load packages current workspace see packages,BUILD
+4807,todo find enable caching,ARCHITECTURE
+4819,there s real reason loop column names,CODE
+4821,hack correction inf label inf minvalue,CODE
+4828,todo save parts need inside loop,CODE
+4829,todo save parts need inside loop,CODE
+4831,todo use factor format x make solid block colors,CODE
+4834,add model averaging check predict method formula interface handle variable imp,ALGORITHM
+4836,todo convert character classification,CODE
+4842,todo get away since finds object spaces,CODE
+4843,todo get away since finds object spaces,DESIGN
+4846,todo relax constraint let ngative length,ALGORITHM
+4852,need double colon,CODE
+4861,trick r cmd check trick r cmd check trick r cmd check trick r cmd check,BUILD
+4864,todo convert string time posixct something,CODE
+4872,hack decent width error bar,CODE
+4873,efficient,ARCHITECTURE
+4875,guess obtained ikbandwidth trick call bw would empty isikband isnull objectcall bw,ALGORITHM
+4877,nasty hack replace coefficients names match vcov method,CODE
+4883,fixme call nonnest2 vuongtest,CODE
+4887,generate z fixme replace rmvnorm use package,CODE
+4888,todo extend multiple covariates,REQUIREMENTS
+4893,fixme good strategy,ALGORITHM
+4895,fixme rawdata single dataframe also list,CODE
+4915,todo store individual object rds files instead rdata make easier add different ffdf dataframes existing directory however makes movingdeleting ffdf s obscure,REQUIREMENTS
+4918,something strange happening factors fforder reported ff maintainer workaround,DEFECT
+4921,dummy lmobject,DESIGN
+4928,someone windows experience might know better way determine packages need sent parallel workers,ARCHITECTURE
+4929,this code pretty ugly there probably better way,CODE
+4938,todo add another loop errormethod mase cverrors implemented,TEST
+4939,deal with m numbers definition possible future implememtation to be able to evaluate modules defined in terms of other modules,REQUIREMENTS
+4946,todo cleanup editlists infeasible parts currently included eliminations,CODE
+4948,ifelse s dirty workarounds error occurring sometimes retrievefirst,DEFECT
+4949,todo add ruleweights c inf na etc check isfinite todo add lambda used objfn softedits todo add objfn specification needs reordering function order,DESIGN
+4953,clear a trick keeps rownames,CODE
+4954,todo cleanup code print list abab abeqabeq abnaabna,CODE
+4956,todo remove function mvdl,CODE
